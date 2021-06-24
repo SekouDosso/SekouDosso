@@ -12,7 +12,7 @@ pool:
   vmImage: 'windows-latest'
 
 variables:
-  solution: '**/*.sln'
+  solution: 'https://github.com/06012021-dotnet-uta/SekouDossoP0/tree/demo/P1.2/P1Mvc/*.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
